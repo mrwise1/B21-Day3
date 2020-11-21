@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello Git Last Day");
         System.out.println("B21 is exited");
         //HSK app
+        //Will be successful
     }
 }
